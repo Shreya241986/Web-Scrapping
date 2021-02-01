@@ -1,0 +1,2 @@
+# Web-Scrapping
+There is an increase in demand for getting data from the internet from various clients and these data can concern for different purposes. For instance you need property data from a Real Estate Website. We need to scrap data for different purposes and the process is called web scapping. Python is perfect for web scrapping, we can store them in a table such as Pandas DataFrame and then it can be exported to csv file. 
